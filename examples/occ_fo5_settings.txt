@@ -1,0 +1,8 @@
+occ_fo5_log\\destination_file
+optimization\\mode
+real_real\\problem_type
+real_cec2013_lsgo\\evaluation_type
+135\\evaluation_function_number
+occ\\optimizer_type
+ffe\\stop_condition_type
+2590034\\stop_condition_max_number_of_ffe
